@@ -22,4 +22,4 @@ This project provides a web application to convert PDF files into audiobooks usi
 ## Usage
 Currently this web application can be used to convert simple storybook PDF's that mostly contain text and can be used as a story teller.
 
-**NOTE THAT**: This web application under development, further many improvements are to be made for audiobooks of more complex PDF's and also include LLM's for summarizing and other higher tasks.
+**NOTE THAT**: This web application is under development, further many improvements are to be made for audiobooks of more complex PDF's and also include LLM's for summarizing and other tasks.
